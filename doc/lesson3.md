@@ -1,4 +1,4 @@
-## “从0开始的FreeRTOS”系列教程第一讲
+## “从0开始的FreeRTOS”系列教程第三讲
 
 ### 作者：satori
 这次我们开始介绍FreeRTOS的任务管理机制。</br>

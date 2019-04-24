@@ -1,5 +1,5 @@
 
-## “从0开始的FreeRTOS”系列教程第一讲
+## “从0开始的FreeRTOS”系列教程第二讲
 
 ### 作者：satori
 这一期教程中，我们将介绍FreeRTOS源码的内容，如何使用cubemx快速生成一个包含freertos的工程，以及包含freertos的工程的结构。</br>
